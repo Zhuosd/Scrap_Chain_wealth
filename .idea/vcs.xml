@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_weather" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather_crawing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weather_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/天气分析/python_weather" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/天气分析/weather-analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/天气分析/weather_crawing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/天气分析/weather_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/文本分析/Analysis-of-Zhihu-s-public-opinion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/文本分析/covid19-sentiment-data-analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/文本分析/my-final" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/文本分析/ncov_covid_nlp_project" vcs="Git" />
+  </component>
+</project>
